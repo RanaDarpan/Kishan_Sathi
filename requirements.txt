@@ -3,7 +3,6 @@ pandas
 joblib
 requests
 plotly
-re
 deep-translator
 SpeechRecognition
 groq
