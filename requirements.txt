@@ -6,3 +6,7 @@ plotly
 deep-translator
 SpeechRecognition
 groq
+pandas
+scikit-learn
+joblib
+
