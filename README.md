@@ -1,5 +1,3 @@
-
-
 # 🌱 AgriHelper: AI-Powered Farming Assistant
 
 AgriHelper is a cutting-edge platform designed to empower farmers with smart solutions. It leverages artificial intelligence and modern technologies to provide data-driven recommendations, personalized advice, and real-time insights for farming activities.
@@ -13,8 +11,8 @@ AgriHelper is a cutting-edge platform designed to empower farmers with smart sol
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Languages Supported](#languages-supported)
-
-
+6. [Live Demo](#live-demo)
+7. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -107,9 +105,19 @@ The platform dynamically translates content and speaks responses in the selected
 
 ---
 
+## 🌐 Live Demo
+
+Try out the live demo of AgriHelper by visiting the link below:
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)]([https://your-live-demo-url.com](https://kishansathi-tmjysmmb3auhszjssi2irw.streamlit.app/)) <!-- Replace with your actual demo URL -->
+
+This demo provides a fully functional version of AgriHelper hosted online. You can interact with the app directly in your browser without needing to install anything locally.
+
+---
 
 ## 🙏 Acknowledgments
 
 - **Streamlit**: For providing an amazing framework to build interactive web apps.
 - **pyttsx3**: For offline text-to-speech functionality.
+
 ---
